@@ -1,2 +1,2 @@
-# Cryptography
-This repository contains cryptographic algorithms present in network security
+# CODSOFT
+This repository contains Tasks give by CODSOFT 
